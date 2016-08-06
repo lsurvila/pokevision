@@ -1,6 +1,9 @@
 import axios from 'axios'
 import promiseRetry from 'promise-retry'
 
+// require('axios');
+// require('promise-retry');
+
 const baseURI = 'https://pokevision.com/map'
 
 /**
